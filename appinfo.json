@@ -5,31 +5,20 @@
     ],
     "companyName": "Lesosoftware",
     "longName": "Locator",
-    "projectType": "pebblejs",
     "resources": {
         "media": [
             {
-                "file": "images/menu_icon.png",
-                "name": "IMAGE_MENU_ICON",
-                "type": "bitmap"
-            },
-            {
-                "file": "images/logo_splash.png",
-                "name": "IMAGE_LOGO_SPLASH",
-                "type": "bitmap"
-            },
-            {
-                "file": "images/tile_splash.png",
+                "file": "res/tile_splash.png",
                 "name": "IMAGE_TILE_SPLASH",
                 "type": "bitmap"
             },
             {
-                "file": "fonts/UbuntuMono-Regular.ttf",
+                "file": "res/font/UbuntuMono-Regular.ttf",
                 "name": "MONO_FONT_14",
                 "type": "font"
             },
             {
-                "file": "images/icon.png",
+                "file": "res/Icon.png",
                 "menuIcon": true,
                 "name": "IMAGES_ICON",
                 "type": "png"
