@@ -29,7 +29,7 @@
                 "type": "font"
             },
             {
-                "file": "images/icon",
+                "file": "images/icon.png",
                 "menuIcon": true,
                 "name": "IMAGES_ICON",
                 "type": "png"
