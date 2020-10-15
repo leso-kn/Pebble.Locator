@@ -2,7 +2,7 @@
 
 This app simply displays the user's current location!
 
-[Download From Rebble.io](https://apps.rebble.io)
+[Download From Rebble.io](https://apps.rebble.io/en_US/application/5f3ee4ad3dd310431df1c5e7?query=locator&section=watchapps)
 
 ---
 
