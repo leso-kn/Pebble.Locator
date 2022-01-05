@@ -21,7 +21,7 @@
         "file": "res/Icon.png",
         "menuIcon": true,
         "name": "IMAGES_ICON",
-        "type": "png"
+        "type": "pbi"
       }
     ]
   },
